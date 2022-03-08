@@ -1,14 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////
-// Title:              Monster
-// Files:              Hero.java
-// Quarter:            CSE 8B Spring 2021
-//
-// Author:             Jonathan Tran
-// Email:              jot002@ucsd.edu
-// Instructor's Name:  Professor Allos
-//
-///////////////////////////////////////////////////////////////////////////////
-
 /**
  * Creates a Monster object that has a name, roarSound, damage, health, and 
  * speed. This class is used to define the monster and have the monster
