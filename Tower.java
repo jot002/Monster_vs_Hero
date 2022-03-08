@@ -1,14 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////
-// Title:              Tower
-// Files:              Monster.java, Item.java, Hero.java
-// Quarter:            CSE 8B Spring 2021
-//
-// Author:             Jonathan Tran
-// Email:              jot002@ucsd.edu
-// Instructor's Name:  Professor Allos
-//
-///////////////////////////////////////////////////////////////////////////////
-
 /**
  * Creates a representation of a tower filled with a monster and item on 
  * each level. It is represented by arrays. 
