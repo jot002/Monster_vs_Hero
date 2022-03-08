@@ -1,14 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////
-// Title:              Hero
-// Files:              Monster.java
-// Quarter:            CSE 8B Spring 2021
-//
-// Author:             Jonathan Tran
-// Email:              jot002@ucsd.edu
-// Instructor's Name:  Professor Allos
-//
-///////////////////////////////////////////////////////////////////////////////
-
 /**
  * Creates one instance of Hero to be used throughout the entire program. The
  * instance of Hero will be used to fight the monsters 
