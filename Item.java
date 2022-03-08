@@ -1,14 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////
-// Title:              Item
-// Files:              None
-// Quarter:            CSE 8B Spring 2021
-//
-// Author:             Jonathan Tran
-// Email:              jot002@ucsd.edu
-// Instructor's Name:  Professor Allos
-//
-///////////////////////////////////////////////////////////////////////////////
-
 /**
  * Creates items and its stats to be used in other files such as Tower.java.
  *
